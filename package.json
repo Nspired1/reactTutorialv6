@@ -1,0 +1,32 @@
+{
+  "name": "adopt-me",
+  "version": "1.0.0",
+  "description": "pet adoption app React tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier --write \"src/**/*.{js,jsx}\"",
+    "lint": "eslint \"src/**/*.{js,jsx}\" --quiet"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nspired1/reactTutorialv6.git"
+  },
+  "keywords": [
+    "\"react\"",
+    "\"adopt-me\"",
+    "\"pet\"",
+    "\"adoption\""
+  ],
+  "author": "don s",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nspired1/reactTutorialv6/issues"
+  },
+  "homepage": "https://github.com/Nspired1/reactTutorialv6#readme",
+  "devDependencies": {
+    "eslint": "^7.18.0",
+    "eslint-config-prettier": "^8.1.0",
+    "prettier": "^2.3.2"
+  }
+}
